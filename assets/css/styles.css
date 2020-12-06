@@ -1,0 +1,21 @@
+.oneLine {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+input[type="radio"], input[type="checkbox"] {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: #323232;
+}
+
+.text-dark.mt-2 {
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: #323232;
+}
+
